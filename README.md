@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MULDINN
 - 👀 I’m interested in python
-- 🌱 I’m currently learning ...
+- 🌱 At the moment I'm a computer science student at IF Goiano ...
 
 <!---
 MULDINN/MULDINN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
